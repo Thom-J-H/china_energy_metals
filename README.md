@@ -7,9 +7,7 @@ This project explores China's Foreign Investment in the Energy and Metals sector
 <hr />
 
 
-The companion R Notebook: [Chinese Investment: Energy and Metal](https://rpubs.com/Thom_JH/china_energy_metals).
-
-Commentary on these graphs and data at the substack [American Exile](https://americanexile.substack.com/). 
+The companion R Notebook: [Chinese Investment: Energy and Metal](https://rpubs.com/Thom_JH/china_energy_metals). Commentary on these graphs and data at the substack [American Exile](https://americanexile.substack.com/). 
 
 ![energy_global_stacked](https://user-images.githubusercontent.com/12042357/177505772-06ea8360-88e6-4e29-8083-be3474f48c8f.png)
 
